@@ -1,1 +1,19 @@
-# Intentionally empty. Cloudflare Pages resolves slug/index.html routes natively.
+# Blog slug renames (301). Both the slash and no-slash forms are listed on purpose.
+/blog/october-2015-flood-plumbing-lessons/ /blog/october-2015-flood-plumbing-lessons-columbia-sc/ 301
+/blog/october-2015-flood-plumbing-lessons /blog/october-2015-flood-plumbing-lessons-columbia-sc/ 301
+/blog/identify-pipe-material-home/ /blog/identify-pipe-material-home-columbia-sc/ 301
+/blog/identify-pipe-material-home /blog/identify-pipe-material-home-columbia-sc/ 301
+/blog/find-sewer-cleanout/ /blog/find-sewer-cleanout-columbia-sc/ 301
+/blog/find-sewer-cleanout /blog/find-sewer-cleanout-columbia-sc/ 301
+/blog/water-heater-pilot-light-wont-stay-lit/ /blog/water-heater-pilot-light-wont-stay-lit-columbia-sc/ 301
+/blog/water-heater-pilot-light-wont-stay-lit /blog/water-heater-pilot-light-wont-stay-lit-columbia-sc/ 301
+/blog/freezing-pipes-south-carolina/ /blog/freezing-pipes-columbia-sc/ 301
+/blog/freezing-pipes-south-carolina /blog/freezing-pipes-columbia-sc/ 301
+/blog/garbage-disposal-septic-lexington-county/ /blog/garbage-disposal-septic-lexington-sc/ 301
+/blog/garbage-disposal-septic-lexington-county /blog/garbage-disposal-septic-lexington-sc/ 301
+/blog/lake-murray-house-plumbing-checklist/ /blog/lake-murray-house-plumbing-checklist-chapin-sc/ 301
+/blog/lake-murray-house-plumbing-checklist /blog/lake-murray-house-plumbing-checklist-chapin-sc/ 301
+/blog/sewer-smell-in-house-causes/ /blog/sewer-smell-in-house-columbia-sc/ 301
+/blog/sewer-smell-in-house-causes /blog/sewer-smell-in-house-columbia-sc/ 301
+/blog/does-insurance-cover-burst-pipe-slab-leak/ /blog/burst-pipe-slab-leak-insurance-columbia-sc/ 301
+/blog/does-insurance-cover-burst-pipe-slab-leak /blog/burst-pipe-slab-leak-insurance-columbia-sc/ 301
